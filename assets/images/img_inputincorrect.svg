@@ -1,0 +1,22 @@
+<svg width="327" height="56" viewBox="0 0 327 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M30 26V24C30 20.69 31 18 36 18C41 18 42 20.69 42 24V26" stroke="#FF5C5C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41 38H31C27 38 26 37 26 33V31C26 27 27 26 31 26H41C45 26 46 27 46 31V33C46 37 45 38 41 38Z" stroke="#FF5C5C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.9965 32H40.0054" stroke="#FF5C5C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35.9955 32H36.0045" stroke="#FF5C5C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.9945 32H32.0035" stroke="#FF5C5C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="68" cy="28" r="4" fill="#101623"/>
+<circle cx="80" cy="28" r="4" fill="#101623"/>
+<circle cx="92" cy="28" r="4" fill="#101623"/>
+<circle cx="104" cy="28" r="4" fill="#101623"/>
+<circle cx="116" cy="28" r="4" fill="#101623"/>
+<circle cx="128" cy="28" r="4" fill="#101623"/>
+<circle cx="140" cy="28" r="4" fill="#101623"/>
+<circle cx="152" cy="28" r="4" fill="#101623"/>
+<path d="M293.53 25.4699L288.47 30.5299C287.82 29.8799 287.42 28.9899 287.42 27.9999C287.42 26.0199 289.02 24.4199 291 24.4199C291.99 24.4199 292.88 24.8199 293.53 25.4699Z" stroke="#A1A8B0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M296.82 21.77C295.07 20.45 293.07 19.73 291 19.73C287.47 19.73 284.18 21.81 281.89 25.41C280.99 26.82 280.99 29.19 281.89 30.6C282.68 31.84 283.6 32.91 284.6 33.77" stroke="#A1A8B0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M287.42 35.5302C288.56 36.0102 289.77 36.2702 291 36.2702C294.53 36.2702 297.82 34.1902 300.11 30.5902C301.01 29.1802 301.01 26.8102 300.11 25.4002C299.78 24.8802 299.42 24.3902 299.05 23.9302" stroke="#A1A8B0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M294.51 28.7002C294.25 30.1102 293.1 31.2602 291.69 31.5202" stroke="#A1A8B0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M288.47 30.5298L281 37.9998" stroke="#A1A8B0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M301 18L293.53 25.47" stroke="#A1A8B0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="0.5" y="0.5" width="326" height="55" rx="23.5" stroke="#FF5C5C"/>
+</svg>
